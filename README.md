@@ -8,7 +8,7 @@ This project focuses on analyzing the effectiveness of advertising strategies ac
   - Attributes include: tv_ads, radio_ads, newspaper, digital-marketing, salessales
 
 **Data Access:** The dataset is loaded directly in the notebook or you can download the following link:  
-```[https://raw.githubusercontent.com/letuanGithubVn1/Sales-advertising-analysis/refs/heads/master/sales_advertising.csv](https://raw.githubusercontent.com/letuanGithubVn1/Sales-advertising-analysis/refs/heads/master/sales_advertising.csv)```
+[https://raw.githubusercontent.com/letuanGithubVn1/Sales-advertising-analysis/refs/heads/master/sales_advertising.csv](https://raw.githubusercontent.com/letuanGithubVn1/Sales-advertising-analysis/refs/heads/master/sales_advertising.csv)
 ## 🎯 Main Objectives
 - Explore effectiveness of advertising strategies.  
 - Analyze the relationships between sales and channels.
